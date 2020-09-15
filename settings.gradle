@@ -1,0 +1,3 @@
+rootProject.name = 'simple_space_game'
+include 'space_game'
+
